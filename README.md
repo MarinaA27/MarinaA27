@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MarinaA27
+- 👀 I’m interested in everything that can be learned.
+- 🌱 I’m currently learning full-stack web development. 
